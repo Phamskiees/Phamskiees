@@ -1,14 +1,15 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Paul Pham and i am currently learning cybersecurity at TAFE NSW.</p>
+<p align="left">My name is Paul Pham and I am currently learning cybersecurity at TAFE NSW.</p>
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">📚 I'm currently learning...<br>- Advanced Diploma of Cyber Security<br>🎯 Goals: <br>- To Finish my advanced diploma of Cyber Security at TAFE NSW.<br>- Finish CompTIA A+. Network+. and Security+.<br>- Finish Some Projects<br>🎲 Fun fact: <br>- I am also working on a clothing brand.</p>
+<p align="left">📚 I'm currently learning...<br>- Advanced Diploma of Cyber Security at TAFE
+  <br>🎯 Goals: <br>- To Finish my Advanced Diploma Of Cyber Security at TAFE NSW.<br>- Finish CompTIA A+. Network+. and Security+.<br>- Finish Some Projects<br>
+  🎲 Fun fact: <br>- I am also working on a clothing brand.</p>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/paul-pham-96463a257/" target="_blank">
@@ -31,13 +32,8 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/phamskiees/count.svg?"  />
-</div>
-
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 <h2> Certifications</h2>
-- [Certificate III of Information Technology at TAFE (https://github.com/Phamskiees/Phamskiees/blob/main/Certificate%20III%20of%20Information%20Technology.pdf)
+- [Certificate III of Information Technology at TAFE] (https://github.com/Phamskiees/Phamskiees/blob/main/Certificate%20III%20of%20Information%20Technology.pdf)
+- [Certificate IV of Cyber Security at TAFE] (https://github.com/Phamskiees/Phamskiees/blob/main/Certificate%20IV%20of%20Cyber%20Security.pdf)
