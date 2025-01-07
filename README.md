@@ -1,10 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
-
 <p align="left">My name is Paul Pham and i am currently learning cybersecurity at TAFE NSW.</p>
-
-###
 
 <h2 align="left">About me</h2>
 
@@ -41,4 +37,7 @@
   <img src="https://profile-counter.glitch.me/phamskiees/count.svg?"  />
 </div>
 
-###
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+<h2> Certifications</h2>
+- [Certificate III of Information Technology at TAFE (https://github.com/Phamskiees/Phamskiees/blob/main/Certificate%20III%20of%20Information%20Technology.pdf)
