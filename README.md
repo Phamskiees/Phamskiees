@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Cyber Security Portfolio</h1>
 
 <p align="left">My name is Paul Pham and I am currently learning cybersecurity at TAFE NSW.</p>
 
