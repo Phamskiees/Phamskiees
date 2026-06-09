@@ -1,0 +1,22 @@
+{
+  "allowed_networks": [
+    "192.0.2.0/24"
+  ],
+  "services": [
+    {
+      "name": "pfSense web interface",
+      "host": "192.0.2.1",
+      "port": 443
+    },
+    {
+      "name": "Rocket.Chat",
+      "host": "192.0.2.20",
+      "port": 3000
+    },
+    {
+      "name": "Ubuntu SSH",
+      "host": "192.0.2.20",
+      "port": 22
+    }
+  ]
+}

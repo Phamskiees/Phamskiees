@@ -32,11 +32,34 @@
   </a>
 </div>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
-A Portfolio with all the projects related to cybersecurity I have worked on
+<h2>👨‍💻 Cyber Security Projects</h2>
 
+Practical, portfolio-safe projects developed from my cybersecurity studies and
+private lab work. All examples use synthetic or sanitized data.
 
-*TryHackme Profile*
+### [Isolated Lab Service Validator](cybersecurity-projects/cluster4-network-validation)
+
+Python CLI for validating approved TCP services in an isolated network lab.
+Demonstrates network allowlisting, structured JSON/CSV evidence, defensive
+input validation, testing, and pfSense-oriented validation planning.
+
+### [Authorized Penetration-Test Lab Workbook](cybersecurity-projects/authorized-pentest-lab)
+
+Authorization-first lab framework with machine-readable scope checks, rules of
+engagement, stop conditions, and an original security assessment report
+template. Demonstrates ethical testing boundaries, evidence handling, risk
+reporting, and remediation planning.
+
+### [Windows Firewall Log Analyzer](cybersecurity-projects/firewall-log-analysis)
+
+PowerShell tool that parses Windows Firewall logs and exports normalized events
+and summary data. Demonstrates log analysis, PowerShell automation, network
+security monitoring, synthetic test data, and incident-response evidence.
+
+### Training Profiles
+
+- [TryHackMe](https://tryhackme.com/r/p/paulpham097)
+- [HackerRank](https://www.hackerrank.com/profile/paulpham097)
 
 ## Google Cybersecurity Professional Certificate On Coursera
 
