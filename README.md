@@ -56,6 +56,18 @@ PowerShell tool that parses Windows Firewall logs and exports normalized events
 and summary data. Demonstrates log analysis, PowerShell automation, network
 security monitoring, synthetic test data, and incident-response evidence.
 
+### [Packet Traffic Summary](cybersecurity-projects/packet-traffic-summary)
+
+Python and TShark workflow for producing privacy-safe packet metadata summaries.
+Includes anonymized endpoint reporting, protocol statistics, TCP indicators,
+synthetic sample traffic, tests, and generated JSON/Markdown evidence.
+
+### [Site-to-Site VPN Configuration Auditor](cybersecurity-projects/vpn-config-audit)
+
+Offline Python auditor for sanitized Cisco IOS-style IKE/IPsec configuration.
+Detects legacy algorithms, exposed pre-shared keys, missing PFS and traffic
+selectors, with tested modern and legacy evidence reports.
+
 ### Training Profiles
 
 - [TryHackMe](https://tryhackme.com/r/p/paulpham097)

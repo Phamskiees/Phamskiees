@@ -1,0 +1,7 @@
+frame.number,frame.time_epoch,ip.src,ip.dst,_ws.col.Protocol,frame.len,tcp.flags.syn,tcp.flags.ack,tcp.analysis.retransmission,dns.qry.name
+1,1710000000.000000,10.10.10.10,10.10.10.53,DNS,78,0,0,0,portal.example.test
+2,1710000000.025000,10.10.10.53,10.10.10.10,DNS,110,0,0,0,portal.example.test
+3,1710000000.100000,10.10.10.10,10.10.20.25,TCP,60,1,0,0,
+4,1710000000.130000,10.10.20.25,10.10.10.10,TCP,60,1,1,0,
+5,1710000000.160000,10.10.10.10,10.10.20.25,TCP,54,0,1,0,
+6,1710000001.200000,10.10.10.10,10.10.20.25,TCP,1514,0,1,1,

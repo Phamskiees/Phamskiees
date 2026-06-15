@@ -1,0 +1,30 @@
+{
+  "packet_count": 6,
+  "total_bytes": 1876,
+  "capture_duration_seconds": 1.2,
+  "protocols": {
+    "TCP": 4,
+    "DNS": 2
+  },
+  "top_sources": {
+    "192.0.2.10": 4,
+    "192.0.2.53": 1,
+    "192.0.2.25": 1
+  },
+  "top_destinations": {
+    "192.0.2.25": 3,
+    "192.0.2.10": 2,
+    "192.0.2.53": 1
+  },
+  "dns_queries": {
+    "portal.example.test": 2
+  },
+  "indicators": {
+    "tcp_retransmissions": 1,
+    "tcp_syn_without_ack": 1
+  },
+  "privacy": {
+    "ip_addresses_anonymized": true,
+    "payloads_processed": false
+  }
+}

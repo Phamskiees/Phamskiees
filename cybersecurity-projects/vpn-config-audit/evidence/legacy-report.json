@@ -1,0 +1,56 @@
+{
+  "source": "vpn-legacy-sanitized.cfg",
+  "finding_count": 7,
+  "severity_counts": {
+    "critical": 0,
+    "high": 4,
+    "medium": 2,
+    "low": 0,
+    "info": 1
+  },
+  "findings": [
+    {
+      "severity": "high",
+      "rule": "IKE_ENCRYPTION",
+      "message": "Replace DES/3DES with an approved AES-based proposal.",
+      "line": 3
+    },
+    {
+      "severity": "high",
+      "rule": "IKE_HASH",
+      "message": "Replace MD5/SHA-1 with an approved SHA-2 integrity algorithm.",
+      "line": 4
+    },
+    {
+      "severity": "high",
+      "rule": "IKE_DH_GROUP",
+      "message": "Replace the legacy Diffie-Hellman group with an approved stronger group.",
+      "line": 6
+    },
+    {
+      "severity": "high",
+      "rule": "IPSEC_TRANSFORM",
+      "message": "Replace the legacy IPsec transform with an approved AES/SHA-2 proposal.",
+      "line": 9
+    },
+    {
+      "severity": "medium",
+      "rule": "IKEV1",
+      "message": "Document the IKEv1 dependency and plan migration to IKEv2 where supported.",
+      "line": 2
+    },
+    {
+      "severity": "medium",
+      "rule": "MISSING_PFS",
+      "message": "No Perfect Forward Secrecy setting was detected in the crypto map.",
+      "line": null
+    },
+    {
+      "severity": "info",
+      "rule": "MISSING_VERIFICATION_NOTES",
+      "message": "Add sanitized verification commands such as show crypto ikev2 sa and show crypto ipsec sa.",
+      "line": null
+    }
+  ],
+  "scope": "offline configuration review only"
+}
