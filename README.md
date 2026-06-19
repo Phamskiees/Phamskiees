@@ -68,6 +68,12 @@ Offline Python auditor for sanitized Cisco IOS-style IKE/IPsec configuration.
 Detects legacy algorithms, exposed pre-shared keys, missing PFS and traffic
 selectors, with tested modern and legacy evidence reports.
 
+### [Home Cybersecurity Lab](cybersecurity-projects/home-cybersecurity-lab)
+
+VirtualBox lab using Kali Linux, Ubuntu Server, Apache2, and Nmap. Demonstrates
+isolated lab networking, legal service discovery, basic Linux service
+validation, and sanitized screenshot evidence.
+
 ### Training Profiles
 
 - [TryHackMe](https://tryhackme.com/r/p/paulpham097)
