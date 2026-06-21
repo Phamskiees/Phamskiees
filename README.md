@@ -46,6 +46,14 @@ JSON/CSV evidence, defensive input validation, testing, and pfSense-oriented
 validation planning. It is original portfolio work, not copied assessment
 answers.
 
+### [TAFE Cluster 4 Secure Network Lab](cybersecurity-projects/tafe-cluster4-secure-network-lab)
+
+Sanitized portfolio summary of my TAFE NSW Cluster 4 lab. Covers a segmented
+VirtualBox environment with pfSense, Rocket.Chat, FreeRADIUS, OpenVPN, SSH,
+MFA/TOTP, backups, disaster recovery, and final validation. The public version
+describes the skills and design without exposing private screenshots,
+credentials, student details, or assessment templates.
+
 ### [Authorized Penetration-Test Lab Workbook](cybersecurity-projects/authorized-pentest-lab)
 
 Authorization-first lab framework with machine-readable scope checks, rules of
