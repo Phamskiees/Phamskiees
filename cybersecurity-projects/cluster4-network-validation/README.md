@@ -1,7 +1,16 @@
-# Isolated Lab Service Validator
+# TAFE Cluster 4 Network Validation Prototype
 
-A Python CLI that checks approved TCP services in an isolated enterprise lab
-and exports timestamped JSON/CSV evidence.
+A Python CLI prototype that checks approved TCP services in an isolated
+enterprise-style lab and exports timestamped JSON/CSV evidence.
+
+## TAFE NSW portfolio note
+
+This project was developed for my public cybersecurity portfolio from skills
+practised during TAFE NSW Diploma of Information Technology Cluster 4,
+Advanced Network Management and Security. It is original supporting work for
+learning and demonstration. It is not a copied assessment answer, not a PEAS
+submission file, and does not include private lab credentials or assessment
+templates.
 
 ## Assessment connection
 

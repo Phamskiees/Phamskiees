@@ -37,11 +37,14 @@
 Practical, portfolio-safe projects developed from my cybersecurity studies and
 private lab work. All examples use synthetic or sanitized data.
 
-### [Isolated Lab Service Validator](cybersecurity-projects/cluster4-network-validation)
+### [TAFE Cluster 4 Network Validation Prototype](cybersecurity-projects/cluster4-network-validation)
 
-Python CLI for validating approved TCP services in an isolated network lab.
-Demonstrates network allowlisting, structured JSON/CSV evidence, defensive
-input validation, testing, and pfSense-oriented validation planning.
+Python CLI prototype developed from my TAFE NSW Diploma of Information
+Technology Cluster 4 network security studies. It validates approved TCP
+services in an isolated lab and demonstrates network allowlisting, structured
+JSON/CSV evidence, defensive input validation, testing, and pfSense-oriented
+validation planning. It is original portfolio work, not copied assessment
+answers.
 
 ### [Authorized Penetration-Test Lab Workbook](cybersecurity-projects/authorized-pentest-lab)
 
