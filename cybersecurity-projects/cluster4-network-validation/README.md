@@ -49,10 +49,25 @@ without making network connections.
 - [x] Timestamped console report
 - [x] JSON and CSV export
 - [x] Unit tests for scope validation and output
+- [x] Test plan and methodology documentation
+- [x] Screenshot evidence for safe sample run, unit tests, generated evidence,
+  Git tracking checks, and project structure
+- [x] Evidence report prepared for portfolio review
 - [ ] Run against the completed PEAS lab
 - [ ] Capture an allowed service and an intentionally blocked service
 - [ ] Compare results with pfSense firewall logs
-- [ ] Add sanitized screenshots with captions
+
+## Evidence report
+
+- [Cluster 4 Network Validation Evidence Report](report/Cluster4_Network_Validation_Evidence_Report.docx)
+- [Test plan](docs/test-plan.md)
+- [Methodology](docs/methodology.md)
+- [Sample JSON evidence](evidence/results.sample.json)
+- [Sample CSV evidence](evidence/results.sample.csv)
+
+Screenshots in `screenshots/` show the safe sample run, unit tests, generated
+evidence files, project structure, and Git tracking checks. They use
+documentation-only sample data rather than private PEAS lab targets.
 
 ## Portfolio-safe evidence
 
