@@ -1,0 +1,17 @@
+# Sanitized Nmap summary after hardening
+
+Target: Ubuntu Server in private lab
+Tester: Kali Linux in same private lab
+
+Visible services:
+
+```text
+22/tcp open ssh
+80/tcp open http
+```
+
+Interpretation:
+
+The required lab services remained available after hardening. The security
+improvement came from SSH configuration changes and UFW firewall rules that
+restricted access to the private lab network.

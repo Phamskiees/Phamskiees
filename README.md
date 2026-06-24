@@ -85,6 +85,12 @@ VirtualBox lab using Kali Linux, Ubuntu Server, Apache2, and Nmap. Demonstrates
 isolated lab networking, legal service discovery, basic Linux service
 validation, and sanitized screenshot evidence.
 
+### [Ubuntu Server Hardening and Validation Lab](cybersecurity-projects/ubuntu-server-hardening)
+
+Sanitized Ubuntu hardening project from my private VirtualBox cybersecurity
+lab. Demonstrates SSH hardening, UFW firewall rules, Apache/SSH validation,
+before-and-after Nmap checks, and safe evidence handling.
+
 ### Training Profiles
 
 - [TryHackMe](https://tryhackme.com/r/p/paulpham097)

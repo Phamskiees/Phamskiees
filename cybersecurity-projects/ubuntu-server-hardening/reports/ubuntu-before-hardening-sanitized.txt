@@ -1,0 +1,17 @@
+# Sanitized Nmap summary before hardening
+
+Target: Ubuntu Server in private lab
+Tester: Kali Linux in same private lab
+
+Visible services:
+
+```text
+22/tcp open ssh
+80/tcp open http
+```
+
+Interpretation:
+
+SSH and HTTP were intentionally available before hardening. The baseline scan
+provided a reference point for validating that required services still worked
+after security controls were applied.
