@@ -1,0 +1,4 @@
+checked_at,name,host,port,status,detail
+2026-06-24T20:00:00+10:00,pfSense web interface,192.0.2.1,443,PASS,connection accepted
+2026-06-24T20:00:00+10:00,Rocket.Chat,192.0.2.20,3000,PASS,connection accepted
+2026-06-24T20:00:00+10:00,Blocked test service,192.0.2.20,23,FAIL,timed out

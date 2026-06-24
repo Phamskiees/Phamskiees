@@ -1,0 +1,32 @@
+{
+  "checked_at": "2026-06-24T20:00:00+10:00",
+  "timeout_seconds": 3.0,
+  "summary": {
+    "pass": 2,
+    "fail": 1,
+    "skip": 0
+  },
+  "results": [
+    {
+      "name": "pfSense web interface",
+      "host": "192.0.2.1",
+      "port": 443,
+      "status": "PASS",
+      "detail": "connection accepted"
+    },
+    {
+      "name": "Rocket.Chat",
+      "host": "192.0.2.20",
+      "port": 3000,
+      "status": "PASS",
+      "detail": "connection accepted"
+    },
+    {
+      "name": "Blocked test service",
+      "host": "192.0.2.20",
+      "port": 23,
+      "status": "FAIL",
+      "detail": "timed out"
+    }
+  ]
+}

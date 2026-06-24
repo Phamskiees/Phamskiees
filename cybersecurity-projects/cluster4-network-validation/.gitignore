@@ -1,0 +1,23 @@
+# Private lab configs
+services.private.json
+
+# Private evidence
+evidence/private/
+results-private.json
+results-private.csv
+
+# Sensitive network/security files
+*.ovpn
+*.key
+*.pem
+*.crt
+*.p12
+config.xml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
