@@ -1,0 +1,61 @@
+﻿{
+    "source_file":  "pfirewall-sanitized.log",
+    "generated_at":  "2026-06-27T23:10:37.1173905+10:00",
+    "total_events":  5,
+    "by_action":  [
+                      {
+                          "value":  "ALLOW",
+                          "count":  3
+                      },
+                      {
+                          "value":  "DROP",
+                          "count":  2
+                      }
+                  ],
+    "by_protocol":  [
+                        {
+                            "value":  "TCP",
+                            "count":  3
+                        },
+                        {
+                            "value":  "UDP",
+                            "count":  2
+                        }
+                    ],
+    "top_sources":  [
+                        {
+                            "value":  "192.0.2.10",
+                            "count":  2
+                        },
+                        {
+                            "value":  "203.0.113.80",
+                            "count":  1
+                        },
+                        {
+                            "value":  "192.0.2.20",
+                            "count":  1
+                        },
+                        {
+                            "value":  "198.51.100.25",
+                            "count":  1
+                        }
+                    ],
+    "top_destination_ports":  [
+                                  {
+                                      "value":  "443",
+                                      "count":  2
+                                  },
+                                  {
+                                      "value":  "161",
+                                      "count":  1
+                                  },
+                                  {
+                                      "value":  "53",
+                                      "count":  1
+                                  },
+                                  {
+                                      "value":  "3389",
+                                      "count":  1
+                                  }
+                              ]
+}

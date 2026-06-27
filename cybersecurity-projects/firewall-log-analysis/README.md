@@ -29,6 +29,28 @@ Outputs:
 
 - `events.csv`: normalized event records
 - `summary.json`: counts by action, protocol, source, and destination port
+- `analyst-notes.md`: short SOC-style interpretation of notable events
+
+## Evidence
+
+- [Normalized events CSV](evidence/events.csv)
+- [Summary JSON](evidence/summary.json)
+- [Analyst notes](evidence/analyst-notes.md)
+
+The public evidence is generated from synthetic sample data. A private version
+can be run against an owned lab machine or classroom lab log, then sanitized
+before publication.
+
+## Analyst value
+
+This project demonstrates a junior SOC workflow:
+
+- collect a Windows Firewall log;
+- parse raw text into structured evidence;
+- summarize allow/drop patterns;
+- identify notable destination ports;
+- explain what an analyst would check next;
+- avoid publishing sensitive production or student-lab data.
 
 ## Checklist
 
@@ -37,10 +59,12 @@ Outputs:
 - [x] Export normalized events
 - [x] Summarize allow/drop activity
 - [x] Include synthetic test data
+- [x] Generate public-safe evidence files
+- [x] Add a short analyst narrative
 - [ ] Run against a private copy of a real lab firewall log
 - [ ] Explain expected versus unexpected dropped traffic
 - [ ] Correlate a selected event with a Wireshark capture
-- [ ] Add a sanitized incident-analysis narrative
+- [ ] Add a sanitized incident-analysis narrative from a private lab case
 
 ## Resources
 
